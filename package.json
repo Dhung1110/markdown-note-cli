@@ -1,0 +1,28 @@
+{
+  "name": "markdown-note-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "note": "./bin/note.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhung1110/markdown-note-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Dhung1110/markdown-note-cli/issues"
+  },
+  "homepage": "https://github.com/Dhung1110/markdown-note-cli#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^15.0.0"
+  }
+}
